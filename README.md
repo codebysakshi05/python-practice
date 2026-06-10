@@ -1,37 +1,115 @@
-# Python Practice Projects
+# 🚀 Python Learning & AI Portfolio
 
-This repository contains my Python learning projects as part of my journey towards AI, Data Analytics, and Software Development.
+Hi, I'm Sakshi 👋
 
-## Projects
+I am a BCA student passionate about Python, Data Analytics, Artificial Intelligence, and Software Development.
 
-### 1. Expense Tracker
+This repository contains the projects I am building while learning Python and preparing for a career in the IT industry.
 
-Features:
+## 🎯 Career Goal
 
-* User input
+My goal is to become a skilled Data Analyst / AI Professional by building real-world projects and continuously improving my technical skills.
+
+---
+
+## 📂 Projects
+
+### 1️⃣ Expense Tracker
+
+A Python application that helps users track expenses and calculate spending.
+
+#### Features
+
+* User input handling
 * Expense calculation
 * Highest expense category detection
+* Basic financial analysis
 
-### 2. AI Resume Analyzer
+#### Skills Used
 
-Features:
+* Variables
+* Input/Output
+* Conditions
+* Arithmetic Operations
+
+---
+
+### 2️⃣ AI Resume Analyzer
+
+A Python-based resume analysis tool that compares candidate skills with job requirements.
+
+#### Features
 
 * Skill matching
-* Missing skills detection
+* Missing skill detection
 * Match score calculation
 * Job readiness analysis
 * Career recommendations
-* Interview question suggestions
+* Learning suggestions
 
-## Technologies Used
+#### Skills Used
+
+* Lists
+* Loops
+* Conditions
+* Dictionaries
+* Data Processing
+
+---
+
+### 3️⃣ AI Interview Preparation Assistant
+
+An interview preparation tool that helps users practice technical interview questions.
+
+#### Features
+
+* Python Interview Questions
+* SQL Interview Questions
+* Excel Interview Questions
+* Score Calculation
+* Performance Analysis
+* Career Recommendations
+
+#### Skills Used
+
+* Functions
+* Dictionaries
+* Loops
+* Conditional Statements
+* User Input
+
+---
+
+## 🛠️ Technologies
 
 * Python
+* Git
 * GitHub
 
-## Learning Goals
+---
+
+## 📚 Currently Learning
 
 * Python Programming
 * Data Analytics
-* AI Development
-* Problem Solving
+* SQL
+* Excel
+* Power BI
+* Artificial Intelligence
+* GitHub
 
+---
+
+## 📈 Learning Roadmap
+
+Python → Data Analytics → SQL → Power BI → AI → Projects → Internship → Job
+
+---
+
+## 🌟 GitHub Journey
+
+I am documenting my learning journey by building projects and uploading them regularly to GitHub.
+
+Every project in this repository represents a step toward becoming a skilled IT professional.
+
+Thank you for visiting my repository! 🚀
