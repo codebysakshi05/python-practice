@@ -13,4 +13,7 @@ Generates interview questions and helps users prepare for technical interviews.
 Collects student information, analyzes performance, and provides career recommendations.
 
 ### 💾 Smart AI Student Database System
-A Python-based application that collects student information, analyzes academic performance, provides AI-style career recommendations, generates personalized learning roadmaps, and stores student records using file handling.
+Stores student information, performs academic analysis, and saves records using file handling.
+
+### 🎯 AI Career Skill Gap Analyzer V2
+Analyzes user skills, identifies missing skills, calculates career readiness, and generates personalized learning roadmaps.
