@@ -17,3 +17,6 @@ Stores student information, performs academic analysis, and saves records using 
 
 ### 🎯 AI Career Skill Gap Analyzer V2
 Analyzes user skills, identifies missing skills, calculates career readiness, and generates personalized learning roadmaps.
+
+### 🎯 AI Placement Predictor & Career Advisor 
+An AI-inspired placement prediction system built using Python that evaluates a student's academic performance and technical skills to estimate placement readiness.
