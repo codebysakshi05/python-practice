@@ -20,3 +20,7 @@ Analyzes user skills, identifies missing skills, calculates career readiness, an
 
 ### 🎯 AI Placement Predictor & Career Advisor 
 An AI-inspired placement prediction system built using Python that evaluates a student's academic performance and technical skills to estimate placement readiness.
+
+### 📊 AI Smart Attendance & Performance Analyzer 
+An AI-inspired student analytics system built with Python that evaluates attendance and academic performance to generate intelligent insights.
+
