@@ -24,3 +24,8 @@ An AI-inspired placement prediction system built using Python that evaluates a s
 ### 📊 AI Smart Attendance & Performance Analyzer 
 An AI-inspired student analytics system built with Python that evaluates attendance and academic performance to generate intelligent insights.
 
+### 💎 AI Personal Finance & Budget Intelligence System 
+An advanced Python-based financial analytics application that helps users analyze spending habits, evaluate financial health, and generate intelligent budget recommendations.
+
+
+
